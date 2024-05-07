@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/1-StartegyDP" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2-StrategyDP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-ObserverDP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-ObserverDP" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
